@@ -1,7 +1,7 @@
 <h1>:sunglasses:Saurabh Pundir Portfolio</h1>
 
 ## Introduction
-My name is Saurabh Pundir, and I am currently a senior software engineer in  Rocket Mortgage.
+My name is Saurabh Pundir, and I am currently as software engineer in Rocket Mortgage.
 
 
 ## Programming Languages
